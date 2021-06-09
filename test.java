@@ -7,6 +7,8 @@ public class test {
 		System.out.println("Hello World!")
 		
 		String name = "Mannmeet";
+		
+		String name = "Marcus";
 
 	}
 
